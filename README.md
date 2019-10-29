@@ -1,5 +1,5 @@
 # screenTimeViewer
-スマフォのスクリーンタイムを表示するアプリケーション
+ラーメンの店検索アプリ
 
 Android StudioのGit連携<br>
 https://blog.codecamp.jp/programming-androidstudio-github
